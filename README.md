@@ -1,4 +1,4 @@
-# twa-react-ts
+# tma-node-react-ts
 
 > 🛠️ Repo content copied from the [Telegram Web Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic) video.
 
